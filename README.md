@@ -1,9 +1,9 @@
-# 한 입 크기 타입스크립트 정리
+# 한 입 크기로 잘라먹는 타입스크립트 정리
 
-이 저장소는 **"[한 입 크기 타입스크립트](https://www.inflearn.com/course/%ED%95%9C%EC%9E%85-%ED%81%AC%EA%B8%B0-%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8)"** 강의를 듣고 간단히 정리한 공간입니다.
+이 저장소는 **"[한 입 크기로 잘라먹는 타입스크립트](https://www.inflearn.com/course/%ED%95%9C%EC%9E%85-%ED%81%AC%EA%B8%B0-%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8)"** 강의를 듣고 간단히 정리한 공간입니다.
 
 ## 🔗 **노션 페이지:**  
-[한 입 크기 타입스크립트 정리](https://www.notion.so/18225ebebb2c80aab875f5f38cd80831?v=18225ebebb2c8043b59a000c014180f6&pvs=4)
+[한 입 크기로 잘라먹는 타입스크립트](https://www.notion.so/18225ebebb2c80aab875f5f38cd80831?v=18225ebebb2c8043b59a000c014180f6&pvs=4)
 
 ## ✨ 주요 학습 내용
 
